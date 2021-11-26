@@ -1,0 +1,20 @@
+NY Heritage,Dublin Core,Description,Type
+Title,Title,,
+Creator,Creator,,
+Subject ,Subject,,
+Location,Spatial Converage,Geographc location as subject of the work,
+Date of Original,NONE,,
+Time period,None,The creation date of original item,Text
+Physical Formart,format,,Text
+Local Location,None (Coverage),specify and define the broader terms,
+Type,Type,The location of the physical item within the holding institution,Text
+Language,Language,Genre,
+Holding Institution,None (Maybe rights holder),,
+Contact Infomration,None,Institution where item is physically located or private donor,Text
+Digital collection,Relation-Is Part Of,,Text
+Library Council,None,Name of the digital collection contributed to NY Heritage,
+Rights ,Rights,Library Council of which the contributing instituation is a member,URL
+Filename,None,Information about rights held in and over the item,
+,,Name of digital file,Text
+,,,
+NY Heritage Vocabs:,https://nyheritage.org/sites/default/files/extras/NYH-MetadataDictionary-V5.pdf,,
